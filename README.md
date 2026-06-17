@@ -85,7 +85,7 @@ Performed deep fraud analysis using **20 SQL queries** across 5 phases:
 ---
 
 ## 📈 Power BI Dashboard
-![Power BI Dashboard](screenshot2026-06-18 00.png)
+![Power BI Dashboard](Screenshot%202026-06-18%20010548.png)
 Interactive dashboard built with:
 - KPI Cards: Total Transactions (6M), Total Fraud Amount (12.06bn), Fraud % (0.13), Flagged Fraud Count (8K)
 - Donut Chart: Fraud Amount by Type (TRANSFER vs CASH_OUT)
